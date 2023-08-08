@@ -13,6 +13,6 @@
 
 ### Redes sociais e contatos
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-aquino-1978b5252/)
-[![Enviar e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoaquino001@hotmail.com)
+[![Enviar e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.aquino.dev@gmail.com)
 
 
