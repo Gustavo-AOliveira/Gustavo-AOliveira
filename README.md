@@ -12,7 +12,7 @@
 </div>   
 
 ### Redes sociais e contatos
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](in/gustavo-aquino-dev)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([in/gustavo-aquino-dev](https://www.linkedin.com/in/gustavo-aquino-dev/))
 [![Enviar e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.aquino.dev@gmail.com)
 
 
